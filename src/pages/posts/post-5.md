@@ -1,4 +1,6 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: "Getting Up and Running with Astro"
 pubDate: 2023-03-23
 description: "Learn how to set up and start building your first Astro project with this step-by-step guide."

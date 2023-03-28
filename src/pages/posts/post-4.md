@@ -1,4 +1,6 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: "Astro vs Next.js: A Comprehensive Comparison"
 pubDate: 2023-03-24
 description: "Discover the differences between Astro and Next.js, and learn which one suits your web development needs better."
