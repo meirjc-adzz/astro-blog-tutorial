@@ -1,5 +1,5 @@
 import rss, { pagesGlobToRssItems } from "@astrojs/rss";
-
+// RSS feed is available at path /rss.xml
 export async function get() {
   return rss({
     title: "Meir J Cohen | Blog",
