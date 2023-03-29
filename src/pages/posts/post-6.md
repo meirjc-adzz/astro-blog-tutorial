@@ -1,6 +1,5 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-
 title: "Why Choose Astro? Benefits Over Other Frameworks"
 pubDate: 2023-03-22
 description: "Explore the key advantages of using Astro compared to other web development frameworks."
